@@ -2,12 +2,6 @@
 
 Este sistema permite gestionar un catálogo de vehículos utilizando exclusivamente un archivo XML como fuente de datos. Toda la interfaz está desarrollada en PHP con componentes visuales de Bootstrap y funcionalidades interactivas mediante DataTables.
 
-
----
-# Gestión de Coches con XML, PHP, Bootstrap y DataTables
-
-Este sistema permite gestionar un catálogo de vehículos utilizando exclusivamente un archivo XML como fuente de datos. Toda la interfaz está desarrollada en PHP con componentes visuales de Bootstrap y funcionalidades interactivas mediante DataTables.
-
 ---
 
 # Estructura del Proyecto
