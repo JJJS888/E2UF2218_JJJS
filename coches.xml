@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coches.xsl"?>
+<coches xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./coches.xsd">
+  <coche matricula="1234ABC">
+    <marca>Toyota</marca>
+    <modelo>Corolla</modelo>
+    <puertas>4</puertas>
+    <color>Rojo</color>
+    <precio venta="nuevo">22000</precio>
+  </coche>
+  <coche matricula="5678XYZ">
+    <marca>Ford</marca>
+    <modelo>Focus</modelo>
+    <puertas>5</puertas>
+    <color>Azul</color>
+    <precio venta="ocasión">14500</precio>
+  </coche>
+  <coche matricula="0001DEF">
+    <marca>Volkswagen</marca>
+    <modelo>Golf</modelo>
+    <puertas>5</puertas>
+    <color>Negro</color>
+    <precio venta="ocasión">9800</precio>
+  </coche>
+  <coche matricula="5678AFG">
+    <marca>Audi</marca>
+    <modelo>10</modelo>
+    <puertas>5</puertas>
+    <color>Guinda</color>
+    <precio venta="nuevo">10000</precio>
+  </coche>
+  <coche matricula="1234MMM">
+    <marca>Seat</marca>
+    <modelo>124</modelo>
+    <puertas>5</puertas>
+    <color>blanco</color>
+    <precio venta="segunda mano">3000</precio>
+  </coche>
+  <coche matricula="5656FFF">
+    <marca>seat</marca>
+    <modelo>133</modelo>
+    <puertas>3</puertas>
+    <color>rojo</color>
+    <precio venta="segunda mano">2000</precio>
+  </coche>
+  <coche matricula="0011FFF">
+    <marca>ford</marca>
+    <modelo>Granada</modelo>
+    <puertas>5</puertas>
+    <color>Blanco</color>
+    <precio venta="segunda mano">1232</precio>
+  </coche>
+  <coche matricula="4545CCC">
+    <marca>Land Rover</marca>
+    <modelo>yeep</modelo>
+    <puertas>5</puertas>
+    <color>Verde</color>
+    <precio venta="ocasión">9999</precio>
+  </coche>
+  <coche matricula="9999AAA">
+    <marca>Renault</marca>
+    <modelo>Clio</modelo>
+    <puertas>5</puertas>
+    <color>Gris</color>
+    <precio venta="nuevo">7000</precio>
+  </coche>
+  <coche matricula="0002AAB">
+    <marca>Mercedez</marca>
+    <modelo>SE</modelo>
+    <puertas>5</puertas>
+    <color>Platino</color>
+    <precio venta="nuevo">150523</precio>
+  </coche>
+  <coche matricula="1234RRR">
+    <marca>BMW</marca>
+    <modelo>Z-4</modelo>
+    <puertas>2</puertas>
+    <color>Blanco</color>
+    <precio venta="nuevo">75000</precio>
+  </coche>
+  <coche matricula="5555JJS">
+    <marca>Fiat</marca>
+    <modelo>Punto</modelo>
+    <puertas>5</puertas>
+    <color>Rojo</color>
+    <precio venta="nuevo">30000</precio>
+  </coche>
+</coches>
